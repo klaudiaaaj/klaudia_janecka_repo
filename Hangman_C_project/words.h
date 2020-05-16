@@ -14,3 +14,4 @@ void check(char *table,int  won, int lost);
 void checkcat(int i, int won , int lost);
 
 #endif
+// a small change to check wherever it works 
